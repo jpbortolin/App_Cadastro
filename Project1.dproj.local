@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/25 15:13:43.000.233,=C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/25 15:18:27.000.839,=C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/25 15:23:49.000.191,E:\2022\PAMII\AppCadastro\Unit2.pas=C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/25 15:23:49.000.191,E:\2022\PAMII\AppCadastro\Unit2.fmx=C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2022/10/25 15:23:50.000.957,E:\2022\PAMII\AppCadastro\Unit1.fmx=C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/10/25 15:23:50.000.957,E:\2022\PAMII\AppCadastro\Unit1.pas=C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/25 15:23:53.000.548,E:\2022\PAMII\AppCadastro\Project1.dproj=C:\Users\aluno\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/31 14:59:49.000.737,=E:\2022\PAMII\AppCadastro\Unit3.pas</Transaction>
+    <Transaction>2022/10/31 15:06:13.000.944,=E:\2022\PAMII\AppCadastro\Unit4.pas</Transaction>
+    <Transaction>2022/10/31 15:09:12.000.007,=E:\2022\PAMII\AppCadastro\Unit5.pas</Transaction>
+    <Transaction>2022/10/31 15:10:13.000.081,=E:\2022\PAMII\AppCadastro\Unit5.pas</Transaction>
+  </Transactions>
+</BorlandProject>
